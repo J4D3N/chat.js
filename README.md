@@ -13,7 +13,7 @@ This is a client and server side implementation of a chat box using WebSockets a
 * Nicknames
 * Commands
 
-# Demo
+## Demo
 
 https://projects.voidpowered.com/chat.js/
 
