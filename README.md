@@ -13,6 +13,10 @@ This is a client and server side implementation of a chat box using WebSockets a
 * Nicknames
 * Commands
 
+# Demo
+
+https://projects.voidpowered.com/chat.js/
+
 # Installation
 
 The client code should be hosted on a HTTP(S) server and accessed with a browser that supports WebSockets.
