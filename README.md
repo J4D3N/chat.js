@@ -4,12 +4,14 @@ This is a client and server side implementation of a chat box using WebSockets a
 
 ## Features
 
-* Emojione emoji's shortcode and unicode
+* Emojione emojis (shortcode and unicode)
 * Modern design
 * Connections counter (could be used with a live stream)
 * Origin limiter (block people from other websites using your server)
 * Random user colours
 * WebSocket SSL support
+* Nicknames
+* Commands
 
 # Installation
 
@@ -31,3 +33,7 @@ To start the server:
 ```bash
 $ node chat-server.js
 ```
+# Chat Commands
+
+* !nick - Prompts to change nick
+* !clear - Clears chat (client-side only)
