@@ -15,7 +15,7 @@ This is a client and server side implementation of a chat box using WebSockets a
 
 The client code should be hosted on a HTTP(S) server and accessed with a browser that supports WebSockets.
 
-The server should have NodeJS installed with this command in the same directory:
+The server should have NodeJS installed and all this projects prerequisites; to install the prerequisites use the following command:
 
 ```bash
 $ npm install http https websocket fs
